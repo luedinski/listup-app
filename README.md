@@ -16,41 +16,7 @@
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js >= 18
-- npm or yarn
-
-### Installation
-
-```bash
-git clone https://github.com/your-username/listup.git
-cd listup
-npm install
-```
-
-### Run in development
-
-```bash
-npm run dev
-```
-
-### Build for production
-
-```bash
-npm run build
-```
-
----
-
-## Tech Stack
-
-> *(Update this section based on your actual stack)*
-
-- **Frontend** – React / Vue / Flutter *(tbd)*
-- **Backend** – Node.js / Supabase *(tbd)*
-- **Real-time** – WebSockets / Firebase *(tbd)*
-- **Database** – PostgreSQL / Firestore *(tbd)*
+> 🚧 This project is in early development. Setup instructions will be added once the stack and scaffolding are defined.
 
 ---
 
